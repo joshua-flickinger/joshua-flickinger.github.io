@@ -1,6 +1,6 @@
 ---
 scope:
-  path: "/CV2"
+  path: "/CV"
   type: pages
 values:
   layout: single
