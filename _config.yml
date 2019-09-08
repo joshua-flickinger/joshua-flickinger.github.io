@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Flickinger"
-  avatar           : "/assets/images/JF.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/JF.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a cartographer working for the NPS."
   location         : "Three Rivers, California"
   email            :
