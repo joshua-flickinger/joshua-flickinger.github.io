@@ -1,6 +1,8 @@
 ---
+filename: _pages/CV.md
+permalink: /CV/
 scope:
-  path: "/CV"
+  path: "/CV/"
   type: pages
 values:
   layout: single
