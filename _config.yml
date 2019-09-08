@@ -20,7 +20,7 @@ title                    : "Cartography and Geo Hacks"
 title_separator          : "-"
 subtitle                 : "Maps and Data and Stuff" # site tagline that appears below site title in masthead
 name                     : "Joshua Flickinger"
-description              : ""
+description              : "A webpage for showcasing some of my work."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -153,6 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joshua-flickinger/"
 
 
 # Reading Files
