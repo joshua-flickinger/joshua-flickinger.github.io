@@ -4,8 +4,6 @@ title: "About"
 excerpt: "About Me"
 layout: single
 last_modified_at: 2019-09-08T16:06:43-04:00
-toc: true
-author_profile: true
 ---
 
 Hi, I'm Josh!  Welcome to my website, where I hope to show off some of my work and record side projects.
