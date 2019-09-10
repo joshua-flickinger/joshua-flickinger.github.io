@@ -7,27 +7,22 @@ last_modified_at: 2019-09-08T16:06:43-04:00
 toc: true
 ---
 
-Skills
-======
+## Skills
 * ArcGIS
   * ArcGIS Pro & Desktop
   * Story Maps
   * Data Collection (Collector and Survey123)
 * R
 
-Education
-======
+## Education
 
-Bachelor of Science
-------
+### Bachelor of Science
 Biosystems Engineering, Virginia Tech, 2010
 
-Master of Science
-------
+### Master of Science
 Environmental Informatics and Conservation Ecology, University of Michigan School for Environment and Sustainability, 2017
 
-Work experience
-======
+## Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
