@@ -20,11 +20,13 @@ toc_sticky: true
 
 ## Education
 
-### Bachelor of Science
-Biosystems Engineering, Virginia Tech, 2010
-
 ### Master of Science
-Environmental Informatics and Conservation Ecology, University of Michigan School for Environment and Sustainability, 2017
+**University of Michigan School for Environment and Sustainability**
+Environmental Informatics and Conservation Ecology, 2017
+
+### Bachelor of Science
+**Virginia Tech**
+Biosystems Engineering, 2010
 
 ## Work experience
 
@@ -33,4 +35,6 @@ Environmental Informatics and Conservation Ecology, University of Michigan Schoo
 
 I make maps.
 
+### Graduate Student Instructor
 
+### Research Assistant
