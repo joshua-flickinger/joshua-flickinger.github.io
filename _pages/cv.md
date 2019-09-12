@@ -9,6 +9,14 @@ toc_sticky: true
 ---
 
 ## Skills
+| ESRI | Other Geospatial | Programming |
+| ----------- | ----------- | ----------- |
+| ArcGIS Pro | Web Mapping | R |
+| ArcGIS Desktop | Google Earth Engine | HTML/CSS |
+| ArcGIS Online | QGIS | Javascript |
+| Story Maps | ERDAS | Python |
+| Collector/Survey123 | ENVI | Latex | 
+
 * ArcGIS
   * ArcGIS Pro & Desktop
   * Story Maps
