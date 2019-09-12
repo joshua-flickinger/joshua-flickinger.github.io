@@ -29,11 +29,7 @@ Environmental Informatics and Conservation Ecology, University of Michigan Schoo
 ## Work experience
 
 ### Cartographic Technician
-**National Park Service**
-
-<i class="fa fa-map-marker"></i> Three Rivers, CA
-
-<i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present
+**National Park Service** - <i class="fa fa-map-marker"></i> Three Rivers, CA - <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present
 
 I make maps.
 
