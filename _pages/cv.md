@@ -4,6 +4,7 @@ title: "CV"
 excerpt: "Summary of my work experience and education."
 layout: single
 last_modified_at: 2019-09-08T16:06:43-04:00
+toc: true
 toc_sticky: true
 ---
 
