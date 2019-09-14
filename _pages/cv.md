@@ -21,7 +21,7 @@ toc_sticky: true
 ## Education
 
 ### Master of Science
-**University of Michigan School for Environment and Sustainability**
+<sub><sup>**University of Michigan School for Environment and Sustainability** -- <i class="fa fa-map-marker"></i> Ann Arbor, MI -- <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
 <details>
   <summary>Environmental Informatics and Conservation Ecology</summary>
   
@@ -34,7 +34,7 @@ toc_sticky: true
 
 
 ### Bachelor of Science
-**Virginia Tech**
+<sub><sup>**Virginia Tech** -- <i class="fa fa-map-marker"></i> Blacksburg, VA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2006-2010 </sup></sub>
 <details>
   <summary>Biosystems Engineering</summary>
   
@@ -48,7 +48,7 @@ toc_sticky: true
 ## Work experience
 
 ### Cartographic Technician
-**National Park Service** <sub><sup>-- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
+<sub><sup>**National Park Service** -- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
 
 I make maps.
 
