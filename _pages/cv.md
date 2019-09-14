@@ -22,16 +22,33 @@ toc_sticky: true
 
 ### Master of Science
 **University of Michigan School for Environment and Sustainability**
-Environmental Informatics and Conservation Ecology, 2017
+<details>
+  <summary>Environmental Informatics and Conservation Ecology</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 ### Bachelor of Science
 **Virginia Tech**
-Biosystems Engineering, 2010
+<details>
+  <summary>Biosystems Engineering</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 ## Work experience
 
 ### Cartographic Technician
-**National Park Service** -- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present
+**National Park Service** <sub><sup>-- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
 
 I make maps.
 
