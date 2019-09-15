@@ -18,7 +18,7 @@ toc_sticky: true
 | Story Maps          | ERDAS               | Python      |
 | Collector/Survey123 | ENVI                | Latex       | 
 
-## Education
+## Education {.tabset .tabset-fade .tabset-pills}
 
 ### Master of Science
 <sub><sup>[**University of Michigan School for Environment and Sustainability**](https://seas.umich.edu) -- <i class="fa fa-map-marker"></i> Ann Arbor, MI -- <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
