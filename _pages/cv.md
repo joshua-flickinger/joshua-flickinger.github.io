@@ -18,7 +18,7 @@ toc_sticky: true
 | Story Maps          | ERDAS               | Python      |
 | Collector/Survey123 | ENVI                | Latex       | 
 
-## Education {.tabset .tabset-fade .tabset-pills}
+## Education 
 
 ### Master of Science
 <sub><sup>[**University of Michigan School for Environment and Sustainability**](https://seas.umich.edu) -- <i class="fa fa-map-marker"></i> Ann Arbor, MI -- <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
@@ -37,6 +37,7 @@ Students in environmental informatics learn to develop and use spatially explici
 Students in biosystems engineering learn principles of biology, chemistry, physics, and engineering and how to apply them to environmental problems.
 </details>
 
+::: {.tabset}
 ## Work experience
 
 ### Cartographic Technician
@@ -50,3 +51,4 @@ I make paper and web based maps for Sequoia and Kings Canyon National Parks.  So
 ### Graduate Student Instructor
 
 ### Research Assistant
+:::
