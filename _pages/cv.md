@@ -37,9 +37,9 @@ Students in environmental informatics learn to develop and use spatially explici
 Students in biosystems engineering learn principles of biology, chemistry, physics, and engineering and how to apply them to environmental problems.
 </details>
 
-::: {.tabset}
 ## Work experience
 
+![](https://images.unsplash.com/photo-1527823689875-92894fb572c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 ### Cartographic Technician
 <sub><sup>[**National Park Service**](https://www.nps.gov/seki) -- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
 
@@ -51,4 +51,3 @@ I make paper and web based maps for Sequoia and Kings Canyon National Parks.  So
 ### Graduate Student Instructor
 
 ### Research Assistant
-:::
