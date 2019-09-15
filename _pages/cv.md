@@ -21,28 +21,20 @@ toc_sticky: true
 ## Education
 
 ### Master of Science
-<sub><sup>**University of Michigan School for Environment and Sustainability** -- <i class="fa fa-map-marker"></i> Ann Arbor, MI -- <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
+<sub><sup>[**University of Michigan School for Environment and Sustainability**](https://seas.umich.edu)     <i class="fa fa-map-marker"></i> Ann Arbor, MI     <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
 <details>
   <summary>Environmental Informatics and Conservation Ecology</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+Students in environmental informatics learn to develop and use spatially explicit analytical and computer-based methods to assess and protect the Earth’s natural resources.  Students in conservation ecology learn the fundamental concepts and tehcniques necessary for the study of ecosystems, in order to reverse environmental damages.
 </details>
 
 
 ### Bachelor of Science
-<sub><sup>**Virginia Tech** -- <i class="fa fa-map-marker"></i> Blacksburg, VA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2006-2010 </sup></sub>
+<sub><sup>[**Virginia Tech**](https://www.bse.vt.edu) -- <i class="fa fa-map-marker"></i> Blacksburg, VA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2006-2010 </sup></sub>
 <details>
   <summary>Biosystems Engineering</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+Students in biosystems engineering learn principles of biology, chemistry, physics, and engineering and how to apply them to environmental problems.
 </details>
 
 ## Work experience
