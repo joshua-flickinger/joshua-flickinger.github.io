@@ -21,7 +21,7 @@ toc_sticky: true
 ## Education
 
 ### Master of Science
-<sub><sup>[**University of Michigan School for Environment and Sustainability**](https://seas.umich.edu)     <i class="fa fa-map-marker"></i> Ann Arbor, MI     <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
+<sub><sup>[**University of Michigan School for Environment and Sustainability**](https://seas.umich.edu) -- <i class="fa fa-map-marker"></i> Ann Arbor, MI -- <i class="fa fa-calendar" aria-hidden="true"></i> 2015-2017 </sup></sub>
 <details>
   <summary>Environmental Informatics and Conservation Ecology</summary>
   
@@ -40,9 +40,12 @@ Students in biosystems engineering learn principles of biology, chemistry, physi
 ## Work experience
 
 ### Cartographic Technician
-<sub><sup>**National Park Service** -- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
+<sub><sup>[**National Park Service**](https://www.nps.gov/seki) -- <i class="fa fa-map-marker"></i> Three Rivers, CA -- <i class="fa fa-calendar" aria-hidden="true"></i> 2018-Present</sup></sub>
 
-I make maps.
+I make paper and web based maps for Sequoia and Kings Canyon National Parks.  Some examples:
+  * Sequoia and Kings Canyon National Parks Soundscape Story Map (Web)
+  * Sequoia and Kings Canyon National Parks Sound Library (Web)
+  * Wedding Locations at Sequoia and Kings Canyon National Park (Web)
 
 ### Graduate Student Instructor
 
